@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @uodda
-- 👀 I’m interested in becoming a Dat Viz specialist
-- 🌱 I’m currently learning R and SQl, SOON hTML , CSS and Javascripy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in becoming a Data Viz Exp
+
 
 <!---
 uodda/uodda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
